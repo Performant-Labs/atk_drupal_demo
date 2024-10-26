@@ -1,5 +1,5 @@
 {
-  "name": "performant-labs/atk_demo",
+  "name": "performant-labs/atk_demo_d10",
   "description": "Create a standalone Drupal demonstration site with Automated Testing Kit.",
   "keywords": ["recipe", "Automated Testing Kit", "demonstration"],
   "type": "drupal-recipe",
