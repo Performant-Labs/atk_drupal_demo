@@ -28,7 +28,6 @@ install:
   - pathauto
   - qa_accounts
   - redirect
-  - symfony_mailer
   - token
   - webform
   - xmlsitemap
