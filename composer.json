@@ -13,7 +13,7 @@
   "repositories": [],
 "minimum-stability": "dev",
 "require": {
-    "drupal/core": "10.3",
+    "drupal/core": "^10.3.0",
     "drupal/admin_toolbar": "^3.4",
     "drupal/admin_toolbar_tools": "^3.4",
     "drupal/automated_testing_kit": "^1.2",
