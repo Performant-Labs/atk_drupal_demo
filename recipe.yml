@@ -9,10 +9,10 @@ type: 'Site'
 # An array of recipes to apply prior to applying this recipe. If any of these
 # recipes fail to apply, this recipe will not be applied either.
 #
-recipes:
+#recipes:
   # Adds Gin as the admin theme.
   # https://github.com/kanopi/gin-admin-experience/blob/main/recipe.yml
-  - kanopi/gin-admin-experience
+#  - kanopi/gin-admin-experience
 
 install:
   # An array of modules or themes to install, if they are not already.
