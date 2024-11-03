@@ -1,5 +1,5 @@
 {
-  "name": "performant-labs/atk_demo_d10",
+  "name": "performant-labs/atk_d103_demo",
   "description": "Create a standalone Drupal demonstration site with Automated Testing Kit.",
   "keywords": ["recipe", "Automated Testing Kit", "demonstration"],
   "type": "drupal-recipe",
@@ -13,14 +13,13 @@
   "repositories": [],
 "minimum-stability": "dev",
 "require": {
-    "drupal/core": "^10.3",
+    "drupal/core": "10.3",
     "drupal/admin_toolbar": "^3.4",
     "drupal/admin_toolbar_tools": "^3.4",
     "drupal/automated_testing_kit": "^1.2",
     "drupal/pathauto": "^1.0",
     "drupal/qa_accounts": "^1.0",
     "drupal/redirect": "^1.9",
-    "drupal/symfony_mailer": "^1.4",
     "drupal/token": "^1.13",
     "drupal/webform": "^6.2",
     "drupal/xmlsitemap": "^1.5",
