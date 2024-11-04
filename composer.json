@@ -23,8 +23,7 @@
     "drupal/token": "^1.13",
     "drupal/webform": "^6.2",
     "drupal/xmlsitemap": "^1.5",
-    "drush/drush": "^13",
-    "kanopi/gin-admin-experience": "^1.0@beta"
+    "drush/drush": "^13"
   },
   "suggest": {},
   "license": "GPL-2.0-or-later"
