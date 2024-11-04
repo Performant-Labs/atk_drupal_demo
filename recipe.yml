@@ -50,10 +50,3 @@ install:
   #
   #  actions:
 
-
-# A Drupal recipe can have a content directory. All content in this
-# directory will be created after the configuration is installed.
-#
-default_content:
-  node:
-    - 3a79b55b-c8b6-4d75-a0db-5524912d1fc6
