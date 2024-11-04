@@ -1,0 +1,48 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 909e2512-346e-4c32-b945-18bc11a7dc56
+  bundle: article
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'In Iuvenibus'
+  created:
+    -
+      value: 1728666319
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+  body:
+    -
+      value: '<p>Synephebos ego, inquit, potius Caecilii aut Andriam Terentii quam utramque Menandri legam? Ego autem quem timeam lectorem, cum ad te ne Graecis quidem cedentem in philosophia audeam scribere? Et harum quidem rerum facilis est et expedita distinctio. Vide, quantum, inquam, fallare, Torquate. Quod Epicurum nostrum non tu quidem oderis, ut fere faciunt, qui ab eo dissentiunt, sed certe non probes.</p><p>Facete is quidem, sicut alia; sed neque tam docti tum erant, ad quorum iudicium elaboraret, et sunt illius scripta leviora, ut urbanitas summa appareat, doctrina mediocris. Quibus ego assentior, dum modo de isdem rebus ne Graecos quidem legendos putent. Ut autem a facillimis ordiamur, prima veniat in medium Epicuri ratio, quae plerisque notissima est.</p><p>Te enim iudicem aequum puto, modo quae dicat ille bene noris. In quo a populo Romano locatus sum, debeo profecto, quantumcumque possum, in eo quoque elaborare, ut sint opera, studio, labore meo doctiores cives mei. Nam et complectitur verbis, quod vult, et dicit plane, quod intellegam; et tamen ego a philosopho, si afferat eloquentiam, non asperner, si non habeat, non admodum flagitem.</p><p>Sic ut plura nemini e nostris, et scribentur fortasse plura, si vita suppetet. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Quorum nihil oportere exquisitis rationibus confirmare, tantum satis esse admonere.</p><p>Alii autem, quibus ego assentior, cum a philosophis compluribus permulta dicantur, cur nec voluptas in bonis sit numeranda nec in malis dolor, non existimant oportere nimium nos causae confidere, sed et argumentandum et accurate disserendum et rationibus conquisitis de voluptate et dolore disputandum putant.</p><p>&nbsp;</p>'
+      format: basic_html
+      summary: ''
+  comment:
+    -
+      status: 2
+      cid: 0
+      last_comment_timestamp: 1728666464
+      last_comment_name: ''
+      last_comment_uid: 1
+      comment_count: 0
