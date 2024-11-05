@@ -39,8 +39,19 @@ install:
   # provided by the modules it configures. This allows them to not have
   # to maintain or copy this configuration.
   #
-  # config:
-  #  import:
+config:
+  actions:
+    system.site:
+      simpleConfigUpdate:
+        langcode: en
+        name: 'Automated Testing Kit Demonstration '
+        mail: admin@example.com
+        slogan: ''
+        page:
+          403: /403-error-page
+          404: /404-error-page
+          front: /node
+
 
   # Configuration actions may be defined. The structure here should be
   # configuration entity ID, action, and then action arguments. Below the user

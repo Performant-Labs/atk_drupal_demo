@@ -33,6 +33,7 @@ default:
     -
       alias: ''
       langcode: en
+      pathauto: 1
   body:
     -
       value: '<p>Now not only is the whole of this affair a piece of childish fancy, but it does not even achieve the result that its author desires. To begin with what is easiest, let us first pass in review the system of Epicurus, which to most men is the best known of any. He believes that these same indivisible solid bodies are borne by their own weight perpendicularly downward, which he holds is the natural motion of all bodies.</p><p>And as for the latter, where he attempts to improve upon his original, in my opinion he only succeeds in making things worse. An elaborate defence of the hedonistic theory of Epicurus was once delivered by Lucius Torquatus, a student well versed in all the systems of philosophy. An elaborate defence of the hedonistic theory of Epicurus was once delivered by Lucius Torquatus, a student well versed in all the systems of philosophy.</p><p>While for those ideas which he adopts, the credit belongs entirely to Democritus, the atoms, the void, the images, or as they call them, eidōla, whose impact is the cause not only of vision but also of thought. Hence Epicurus refuses to admit any necessity for argument or discussion to prove that pleasure is desirable and pain to be avoided.</p><p>It is also unworthy of a natural philosopher to deny the infinite divisibility of matter; an error that assuredly Epicurus would have avoided, if he had been willing to let his friend Polyaenus teach him geometry instead of making Polyaenus himself unlearn it. Others again, with whom I agree, observing that a great many philosophers do advance a vast array of reasons to prove why pleasure should not be counted as a good nor pain as an evil, consider that we had better not be too confident of our case.</p><p>For our object is to discover the truth, not to refute someone as an opponent. Epicurus for his part, where he follows Democritus, does not generally blunder. Those again who would rather have me write on other subjects may fairly be indulgent to one who has written much already, in fact no one of our nation more, and who perhaps will write still more if his life be prolonged.</p><p>&nbsp;</p>'
@@ -42,7 +43,7 @@ default:
     -
       status: 2
       cid: 0
-      last_comment_timestamp: 1728666614
+      last_comment_timestamp: 1730755354
       last_comment_name: ''
       last_comment_uid: 1
       comment_count: 0

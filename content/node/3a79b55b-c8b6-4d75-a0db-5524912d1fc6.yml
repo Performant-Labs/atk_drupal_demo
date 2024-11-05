@@ -31,11 +31,11 @@ default:
       value: true
   path:
     -
-      alias: ''
+      alias: /403-error-page
       langcode: en
       pathauto: 0
   body:
     -
-      value: '<p>403 error page</p>'
+      value: '<p>ATK 403 Error Page</p>'
       format: basic_html
       summary: ''

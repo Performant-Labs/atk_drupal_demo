@@ -16,7 +16,7 @@ default:
       target_id: 1
   title:
     -
-      value: '404 error page'
+      value: '404 Page'
   created:
     -
       value: 1730737132
@@ -31,10 +31,11 @@ default:
       value: true
   path:
     -
-      alias: ''
+      alias: /404-error-page
       langcode: en
+      pathauto: 0
   body:
     -
-      value: '<p>404 error page</p>'
+      value: '<p>ATK 404 Error Page</p>'
       format: basic_html
       summary: ''
