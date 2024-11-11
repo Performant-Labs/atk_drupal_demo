@@ -40,6 +40,13 @@ install:
   # to maintain or copy this configuration.
   #
 config:
+  import:
+    automated_testing_kit: "*"
+    qa_accounts: "*"
+    redirect: "*"
+    token: "*"
+    webform: "*"
+    xmlsitemap: "*"
   actions:
     system.site:
       simpleConfigUpdate:
