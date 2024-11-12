@@ -9,8 +9,8 @@ type: 'Site'
 # An array of recipes to apply prior to applying this recipe. If any of these
 # recipes fail to apply, this recipe will not be applied either.
 #
-#recipes:
-
+recipes:
+  - core/recipes/image_media_type
 
 install:
   # An array of modules or themes to install, if they are not already.
@@ -41,6 +41,8 @@ install:
   # to maintain or copy this configuration.
   #
 config:
+  # If the config we're importing already exists, skip it.
+  strict: false
   import:
     automated_testing_kit: "*"
     admin_toolbar: "*"
@@ -71,5 +73,5 @@ config:
   # and then has permissions added. The permissions key will be mapped to the
   # \Drupal\user\Entity\Role::grantPermission() method.
   #
-  #  actions:
+  #actions:
 
