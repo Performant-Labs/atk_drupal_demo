@@ -24,6 +24,8 @@ install:
 
   # Install Automated Testing Kit, the demo support module and their dependencies.
   - automated_testing_kit
+  - admin_toolbar
+  - admin_toolbar_tools
   - pathauto
   - qa_accounts
   - redirect
@@ -41,7 +43,10 @@ install:
 config:
   import:
     automated_testing_kit: "*"
+    admin_toolbar: "*"
+    admin_toolbar_tools: "*"
     media: "*"
+    pathauto: "*"
     qa_accounts: "*"
     redirect: "*"
     token: "*"
