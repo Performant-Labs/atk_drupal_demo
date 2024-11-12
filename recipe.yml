@@ -10,9 +10,7 @@ type: 'Site'
 # recipes fail to apply, this recipe will not be applied either.
 #
 #recipes:
-  # Adds Gin as the admin theme.
-  # https://github.com/kanopi/gin-admin-experience/blob/main/recipe.yml
-#  - kanopi/gin-admin-experience
+
 
 install:
   # An array of modules or themes to install, if they are not already.
@@ -22,6 +20,7 @@ install:
 
   # Install core dependencies.
   - node
+  - media
 
   # Install Automated Testing Kit, the demo support module and their dependencies.
   - automated_testing_kit
@@ -42,6 +41,7 @@ install:
 config:
   import:
     automated_testing_kit: "*"
+    media: "*"
     qa_accounts: "*"
     redirect: "*"
     token: "*"
