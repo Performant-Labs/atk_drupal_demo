@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: f30a0833-0fc3-463a-82f8-107bff857af0
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: RobotsAtDesk.png
+  uri:
+    -
+      value: 'public://2024-11/RobotsAtDesk.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 262055
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1731372239

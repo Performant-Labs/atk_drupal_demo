@@ -1,0 +1,39 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: e3f4a855-04a3-4142-8325-205b4c3cb6df
+  bundle: image
+  default_langcode: en
+  depends:
+    f30a0833-0fc3-463a-82f8-107bff857af0: file
+default:
+  revision_user:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: RobotsAtDesk.png
+  created:
+    -
+      value: 1731372186
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_media_image:
+    -
+      entity: f30a0833-0fc3-463a-82f8-107bff857af0
+      alt: 'Hard working robots.'
+      title: ''
+      width: 2048
+      height: 2048
