@@ -24,6 +24,7 @@ install:
 
   # Install Automated Testing Kit, the demo support module and their dependencies.
   - automated_testing_kit
+  - automated_testing_kit_demo
   - admin_toolbar
   - admin_toolbar_tools
   - pathauto
