@@ -8,11 +8,7 @@ This recipe will:
 - Run important functions, such as running cron to index the site, after
   the recipe is applied.
 
-## Documentation
+## Installation Instructions
 
 See the instructions at
 [Applying the Automated Testing Kit Recipe](https://performantlabs.com/automated-testing-kit/applying-automated-testing-kit-recipe).
-
-## Installation Instructions
-
-- See the documentation above.
