@@ -11,9 +11,9 @@
     }
   ],
   "repositories": [],
-"minimum-stability": "dev",
-"require": {
-    "drupal/core": "^10.3.0",
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/core": ">=10.4 <11.0",
     "drupal/admin_toolbar": "^3.4",
     "drupal/admin_toolbar_tools": "^3.4",
     "drupal/automated_testing_kit": "^1.3",
